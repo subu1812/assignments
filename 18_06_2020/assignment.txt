@@ -1,1 +1,16 @@
-// test
+//Day_6 assignments 
+
+1.	Factorial with higher order function
+- Accept an  Integer argument
+- Return factorial as the result
+
+
+2.  Implement Set using arrays. Operations to support
+- is duplicate
+- add an element with '+'
+- remove an element with '-'
+- Union operation
+- Intersection
+-difference between two sets using '--'
+- Contains method
+- toString to print all the elements
